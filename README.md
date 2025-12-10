@@ -5,10 +5,18 @@ Sistem; öğrenci ekleme, listeleme ve yaş/isim gibi temel bilgileri görüntü
 
 🚀 Özellikler
 
-Yeni öğrenci ekleme, öğrenci listesini tablo halinde görüntüleme
-Ad, soyad ve yaş bilgisinin yönetimi, basit ve anlaşılır kullanıcı arayüzü.
+Yeni öğrenci ekleme
+
+Öğrenci listesini tablo halinde görüntüleme
+
+Ad, soyad ve yaş bilgisinin yönetimi
+
+Basit ve anlaşılır kullanıcı arayüzü
 
 🛠 Kullanılan Teknolojiler
--Java
--Spring Boot
--MySQL
+
+Java
+
+Spring Boot
+
+MySQL
